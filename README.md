@@ -5,7 +5,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Growing glowing minds
+# Project Titel
 Building AI course project
 
 Make sure NLP chatsbots are not so afraid of new-thought theories and other non verified information.
