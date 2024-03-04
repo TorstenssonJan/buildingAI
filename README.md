@@ -13,7 +13,8 @@ Make sure NLP chatsbots are not so afraid of new-thought theories and other non 
 ## Summary
 
 I want the chat enginges to be more openminded regarding information. There might be an upcoming issue regarding variation in information. Psycologically humans avoid to continue searching efter they have found one answer that is enough. But that is not enough for a growing mind. Searchenginges have been a great tool to spread new type of information and free-thinking around the world.
-
+Building AI course project.
+"Building AI course project".
 
 ## Background
 
